@@ -1,0 +1,19 @@
+PODS:
+  - FMDB (2.6.2):
+    - FMDB/standard (= 2.6.2)
+  - FMDB/standard (2.6.2)
+  - Mantle (2.1.0):
+    - Mantle/extobjc (= 2.1.0)
+  - Mantle/extobjc (2.1.0)
+
+DEPENDENCIES:
+  - FMDB
+  - Mantle
+
+SPEC CHECKSUMS:
+  FMDB: 854a0341b4726e53276f2a8996f06f1b80f9259a
+  Mantle: 2fa750afa478cd625a94230fbf1c13462f29395b
+
+PODFILE CHECKSUM: 297c450d905db074155ab8835f37ceafcd791799
+
+COCOAPODS: 1.0.1
